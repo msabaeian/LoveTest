@@ -1,6 +1,6 @@
 Love Test
 =
-Just a test project with [React Native](https://facebook.github.io/react-native/) for training, i wrote it two month...
+Just a test project with [React Native](https://facebook.github.io/react-native/) for training, i wrote it two month ago...
 
 ![LoveTest Main](https://github.com/msabaeian/LoveTest/blob/master/screenshots/1.png)
 ![LoveTest Two](https://github.com/msabaeian/LoveTest/blob/master/screenshots/2.png)
